@@ -20,10 +20,14 @@ git clone https://github.com/your-username/perfume-ecommerce.git
 
 
 3. Install the dependencies:
-[text]( "git install")
+```<markdown>
+git install
+```
 
 3.Start the development server:
-[text]( "npm run dev")
+```<markdown>
+npm run dev
+```
 
 
 The progect should now be accessible at http://localhost:3000.
