@@ -14,10 +14,12 @@ This is a simple e-commerce website for a perfume product. The website is built 
 To get started with this project, follow these steps:
 
 1. **Clone the repository**
-```git clone https://github.com/your-username/perfume-ecommerce.git```
+```<markdown>
+git clone https://github.com/your-username/perfume-ecommerce.git
+```
 
 
-2. Install the dependencies:
+3. Install the dependencies:
 [text]( "git install")
 
 3.Start the development server:
