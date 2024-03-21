@@ -1,8 +1,6 @@
 # Perfume (Responsive-simple-next-app)
 
 
- ### to watch online on vercel.com: [visite](responsive-wine.vercel.app).
-
 This is a simple e-commerce website for a perfume product. The website is built using Next.js and includes features such as:
 
 - Dynamic font loading using next/font/google
