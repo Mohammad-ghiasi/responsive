@@ -32,5 +32,4 @@ git install
 npm run dev
 ```
 
-visite at responsive-wine.vercel.app.
 The progect should now be accessible at http://localhost:3000.
