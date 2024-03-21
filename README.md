@@ -7,22 +7,21 @@ This is a simple e-commerce website for a perfume product. The website is built 
 - Add to cart functionality using react-hot-toast
 - Responsive design using taiwindcss
 
----
+
 
 ## Getting Started
 
 To get started with this project, follow these steps:
 
 1. **Clone the repository**
-[text](url "git clone https://github.com/your-username/perfume-ecommerce.git")
+[text]( "git clone https://github.com/your-username/perfume-ecommerce.git")
 
 
 2. Install the dependencies:
-[text](url "git install")
+[text]( "git install")
 
 3.Start the development server:
-[text](url "npm run dev")
+[text]( "npm run dev")
 
----
 
 The progect should now be accessible at http://localhost:3000.
