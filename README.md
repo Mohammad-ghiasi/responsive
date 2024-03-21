@@ -22,7 +22,7 @@ git clone https://github.com/your-username/perfume-ecommerce.git
 
 3. Install the dependencies:
 ```<markdown>
-git install
+npm install
 ```
 
 3.Start the development server:
